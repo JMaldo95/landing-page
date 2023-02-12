@@ -1,5 +1,5 @@
 body {
-
+    font-family: sans-serif;
 }
 
 .header {
@@ -13,4 +13,18 @@ body {
 
 .hero-subheading {
     color: #e5e7eb;
+}
+
+.info-heading {
+    color: #1f2937;
+}
+
+.info-card img {
+    border: 4px solid #3882F6;
+    border-radius: 8px;
+
+}
+
+.info-text {
+    color: #1f2937;
 }
