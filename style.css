@@ -40,3 +40,12 @@ body {
 .attribution {
     color: #1f2937;
 }
+
+.call-container {
+    background-color: #3882F6;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb
+}
