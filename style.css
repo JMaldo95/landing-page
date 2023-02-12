@@ -1,0 +1,16 @@
+body {
+
+}
+
+.header {
+    background-color: #1f2937;
+}
+
+.logo,
+.hero-heading {
+    color: #f9faf8;
+}
+
+.hero-subheading {
+    color: #e5e7eb;
+}
