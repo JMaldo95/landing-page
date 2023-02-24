@@ -62,8 +62,21 @@ a {
     font-size: 18px;
 }
 
+.information {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .info-heading {
     color: #1f2937;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.card-section {
+    display: flex;
 }
 
 .info-card img {
